@@ -56,9 +56,9 @@ h1 {
     margin-top: 24px;
 }
 
-imput {
+.formulario imput {
     width: 530px;
-    padding-left: 10px;
+    padding: 10px;
 }
     
 #botao-email {
